@@ -1,0 +1,6 @@
+{
+  "name": "SkillMatch - Early Access Job Board & Apply Concierge",
+  "description": "Discover low-competition tech jobs directly from ATS 24-72 hours early, track applications, unlock recruiter contacts, and auto-apply with AI Apply Concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
